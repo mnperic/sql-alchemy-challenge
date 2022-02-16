@@ -1,2 +1,0 @@
-# sql-alchemy-challenge
- 
