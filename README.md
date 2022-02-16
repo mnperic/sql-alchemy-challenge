@@ -103,6 +103,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
   * Use "Trip Avg Temp" as the title.
   * Use the average temperature as the bar height (y value).
   * Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
+  
     ![temperature](Images/trip_average_temperature.png)
 
 ### Daily Rainfall Average
